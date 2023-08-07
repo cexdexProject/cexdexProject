@@ -13,11 +13,8 @@ Introduction
 Features
 How It Works
 Getting Started
-Supported Networks
-Roadmap
-Community and Support
 Contributing
-License
+
 Introduction
 CexDex.app is a cutting-edge cross-chain liquidity layer that aims to revolutionize the decentralized finance (DeFi) space by providing superior integration and liquidity on demand for next-gen DeFi projects. Unlike traditional DeFi platforms that are limited to top-chain networks, CexDex.app believes in giving all stakers, borrowers, and lenders access to all network layers, ensuring better prices and a more inclusive DeFi ecosystem.
 
@@ -50,12 +47,5 @@ Manage Assets: Manage your assets by staking, borrowing, lending, or providing l
 
 Explore and Trade: Explore the available assets and trade across various blockchain networks with ease.
 
-Supported Networks
-CexDex.app currently supports the following blockchain networks:
 
-Ethereum
-Binance Smart Chain
-Polkadot
-Solana
-Avalanche
 The team is actively working to integrate more networks to expand the platform's capabilities and reach.
